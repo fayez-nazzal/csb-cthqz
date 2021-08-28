@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://fayez-nazzal.github.io/csb-cthqz/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://fayez-nazzal.github.io/csb-cthqz/static/js/main.51205df0.chunk.js",
-    "main.js.map": "https://fayez-nazzal.github.io/csb-cthqz/static/js/main.51205df0.chunk.js.map",
+    "main.js": "https://fayez-nazzal.github.io/csb-cthqz/static/js/main.11adf2f2.chunk.js",
+    "main.js.map": "https://fayez-nazzal.github.io/csb-cthqz/static/js/main.11adf2f2.chunk.js.map",
     "runtime-main.js": "https://fayez-nazzal.github.io/csb-cthqz/static/js/runtime-main.a3edba5e.js",
     "runtime-main.js.map": "https://fayez-nazzal.github.io/csb-cthqz/static/js/runtime-main.a3edba5e.js.map",
     "static/js/2.03c33ab1.chunk.js": "https://fayez-nazzal.github.io/csb-cthqz/static/js/2.03c33ab1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a3edba5e.js",
     "static/js/2.03c33ab1.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.51205df0.chunk.js"
+    "static/js/main.11adf2f2.chunk.js"
   ]
 }
