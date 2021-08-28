@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n(3),o=n.n(r),i=(n(8),n(1));function s(){return Object(c.useEffect)((function(){alert("fired"),console.log("fired"),window.gtag("event","login",{event_category:"access",event_label:"login"})}),[]),Object(i.jsx)("div",{className:"App",children:"......"})}var a=document.getElementById("root");o.a.render(Object(i.jsx)(c.StrictMode,{children:Object(i.jsx)(s,{})}),a)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.98b1c87a.chunk.js.map
